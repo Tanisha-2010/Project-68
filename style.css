@@ -33,3 +33,15 @@
 .movie_text span {
     color: orange;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.new {
+    margin-bottom: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
