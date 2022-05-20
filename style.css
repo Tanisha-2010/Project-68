@@ -16,3 +16,20 @@
 .travel_mainDiv p {
     margin: 20px;
 }
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
